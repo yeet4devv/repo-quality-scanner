@@ -1,0 +1,21 @@
+{
+  "name": "repo-quality-scanner",
+  "version": "0.1.0",
+  "description": "Analyze GitHub repositories and generate a quality score",
+  "type": "module",
+  "bin": {
+    "repo-quality-scanner": "./src/index.js"
+  },
+  "scripts": {
+    "scan": "node src/index.js"
+  },
+  "keywords": [
+    "github",
+    "repository",
+    "quality",
+    "analyzer",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
