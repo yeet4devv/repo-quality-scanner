@@ -8,6 +8,21 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </p>
 
+<p align="center">
+  <img src="assets/hero.png" alt="Repo Quality Scanner Hero" />
+</p>
+
+<h1 align="center">Repo Quality Scanner</h1>
+
+<p align="center">
+  🚀 Analyze • 📊 Score • 🧠 Improve any GitHub repository
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yeet4devv/repo-quality-scanner?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/license/yeet4devv/repo-quality-scanner?style=for-the-badge" />
+</p>
+
 ## Repo Quality Scanner
 
 Analyze any GitHub repository and get an instant quality score (0–100).
