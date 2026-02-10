@@ -1,7 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/yeet4devv/repo-quality-scanner?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/yeet4devv/repo-quality-scanner?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yeet4devv/repo-quality-scanner?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/yeet4devv/repo-quality-scanner?style=flat-square)
+<img src="https://raw.githubusercontent.com/BrunnerLivio/badges/master/badges/github/stars.gif" height="28"/>
 
 ## Repo Quality Scanner
 
