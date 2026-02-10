@@ -1,6 +1,7 @@
-![CI](https://github.com/yeet4devv/repo-quality-scanner/actions/workflows/scan.yml/badge.svg)
-![License](https://img.shields.io/github/license/KULLANICI_ADIN/repo-quality-scanner)
-![Stars](https://img.shields.io/github/stars/KULLANICI_ADIN/repo-quality-scanner?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yeet4devv/repo-quality-scanner?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/yeet4devv/repo-quality-scanner?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/yeet4devv/repo-quality-scanner?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/yeet4devv/repo-quality-scanner?style=flat-square)
 
 ## Repo Quality Scanner
 
