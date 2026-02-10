@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/BrunnerLivio/badges/master/badges/github/stars.gif" height="28"/>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/badges/master/badges/github/stars.gif" height="28"/> 
+<img src="https://img.shields.io/github/stars/yeet4devv/repo-quality-scanner?style=flat"/>
 
 ## Repo Quality Scanner
 
