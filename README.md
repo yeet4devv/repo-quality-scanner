@@ -1,3 +1,7 @@
+![CI](https://github.com/yeet4devv/repo-quality-scanner/actions/workflows/scan.yml/badge.svg)
+![License](https://img.shields.io/github/license/KULLANICI_ADIN/repo-quality-scanner)
+![Stars](https://img.shields.io/github/stars/KULLANICI_ADIN/repo-quality-scanner?style=social)
+
 ## Repo Quality Scanner
 
 Analyze any GitHub repository and get an instant quality score (0–100).
